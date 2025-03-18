@@ -1,2 +1,3 @@
-# CartPole
- 
+# CartPole: A Comparative Study
+
+The objective of this project is to compare the performance and cost of three different reinforcement learning algorithms: Q-State Learning, Deep Q-Network (DQN), and Fuzzy Logic. The chosen environment for this study is the CartPole, a classic problem in the field of control theory. The goal is to understand the strengths and weaknesses of each algorithm in solving this problem, and to gain insights into the trade-offs between performance and computational cost.
